@@ -1,0 +1,4 @@
+*.pyproj
+*.exe
+*.pyc
+#__pycache__/
